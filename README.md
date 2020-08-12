@@ -1,9 +1,10 @@
 # drone-business
  A picture book story of how I found a niche in the world of radio controlled aircraft
- and ended up creating my own online gig at 13 years old custom building and selling drones.
+ and ended up creating my own online gig at 13 years old custom building and selling unmanned aircraft 
+ electronic systems.
 
 ![workshop](./pics/workshop1.jpg)
-![ground2](./pics/ground_station.jpg)
+![ground2](./pics/wing_field_station.jpg)
 ![highq](./pics/case_setup_full.jpg)
 
 
@@ -32,12 +33,20 @@ phones, this was a significant challenge.
 A thus, the idea was born: I can learn how to set these wireless video link systems up for RC aircraft and sell them!
 
 # Business: 2013 - 2014
+I made a couple hundred dollars my first few years, but this was basically like being a millionaire for 
+my age.  Here are some of the setups that I was building - simple, clean systems with cameras, 
+transmitter/receiver combinations, antennas and video monitors, all with the right battery plugs, filters, and adapters to 
+make it ready to go for the customer.  I even had a few OSD setups in there (On Screen Display of flight 
+and aircraft characteristics).
+
 ![1.3monitor](./pics/1.3_setup_monitor.jpg)
 ![ezosd](./pics/EZOSD_setup_full.jpg)
 ![OSD](./pics/HW_monitor_camera.jpg)
 ![OSD_wiring](./pics/OSD_setup.jpg)
 
 # My Finest Work: 2015 - 2016
+In these years I really fine-tuned my art, for customers and personal use alike.
+
 ![highq](./pics/case_setup_full.jpg)
 ![wiring](./pics/Wiring.jpg)
 ![diversity](./pics/diversity_setup_back.JPG)
