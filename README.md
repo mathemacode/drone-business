@@ -66,7 +66,8 @@ and hook up a 3S to the RX with the monitor on a tripod, and you are ready to go
 - 2.4 GHz Patch Antenna (13dbi) (this was a longer range system)
 - ImmersionRC EzOSD (On Screen Display - see monitor pic for it in action)
 - Voltage regulator (12v to 5v) from amp sensor on EzOSD for LawMate vTX
-- RMRC 700TVL FPV Camera (12v)
+- RMRC 700TVL FPV Camera (12v)   
+
 This system was tricky because of the LawMate running 5v and camera on 12v.  The EzOSD was a breeze to set up
 though, and some of the features it has far outweighed the price back 1/2 a decade - speed, distance, altitude,
 direction to fly back to yourself, and of course power details and other features.
@@ -102,6 +103,7 @@ University.
 - Backup/spectator 7'' monitor
 - 3S LiPos, note independence from UAS power system (no risk of interference from ESC, best for high voltage UAS)
 - Also made a custom wiring schematic for this one due to complexity
+- DragonLink UHF system for aircraft control also set up - not pictured - ready for head tracking 
 
 
 ![highq](./pics/case_setup_full.jpg)
