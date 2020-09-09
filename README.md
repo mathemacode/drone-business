@@ -48,7 +48,7 @@ and aircraft characteristics).
 
 ### Popular Monitor Setup Example
 - 1.3 GHz Video Transmitter & Receiver
-- Notch Filter on vTX to decrease UHF interference
+- Notch Filter on vTX to decrease interference on 2.4 GHz control bands
 - Set of circularly polarized antennas for best all-around performance flying around ground station
 - Deans "tap" adapter for 3S LiPo main aircraft battery power to video system
 - Filtering on power input side too on vTX to eliminate lines in video
